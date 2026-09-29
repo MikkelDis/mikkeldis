@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mikkel 👋
 
-<!--
-**MikkelDis/mikkeldis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Aalborg University in Denmark.
 
-Here are some ideas to get you started:
+I enjoy building software and learning how things work beyond just writing
+code. I'm currently focusing on object-oriented programming, algorithms,
+data structures and software design, while working on both university and
+personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+**Languages**
+
+Java · C · JavaScript · TypeScript · SQL
+
+**Tools & Technologies**
+
+Git · GitHub · Node.js · MySQL · Linux
